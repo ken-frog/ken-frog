@@ -1,7 +1,9 @@
 
 /* import fonts from fonts.css file */ 
 @import url(./fonts.css);
-
+*{
+    font-family: var(--roboto);
+}
 
 /* css variables */ 
 /* @import url(./partials/_variables.css); */
