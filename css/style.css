@@ -512,6 +512,7 @@ footer.footer-area .social a:hover > i{
     .site-main .services-area,
     .site-main .subscribe-us-area .subscribe
     {
+        font-family: var(--roboto);
         padding: 2%;
         margin: 0%;
     }
