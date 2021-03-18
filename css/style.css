@@ -193,6 +193,10 @@
     padding-left: 10rem;
 }
 
+.call-area {
+    padding-top: 0 !important;
+}
+
 
 /* End Brand Area */ 
 
@@ -208,6 +212,7 @@
 
 .site-main .services-area .services-title h1{
     font-size: 35px;
+    color: var(--title-color);
 }
 
 .site-main > .services-area .services{
@@ -222,6 +227,11 @@
     box-shadow: var(--box-shadow);
 }
 
+.sevices-img img {
+    height: 70px;
+    width: 100px;
+    border-radius: 50px;
+}
 
 
 /* End Services Area */ 
