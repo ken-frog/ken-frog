@@ -1,8 +1,8 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 /* import fonts from fonts.css file */ 
 @import url(./fonts.css);
 *{
-    font-family: var(--roboto);
+    font-family: 'Roboto', sans-serif;
 }
 
 /* css variables */ 
