@@ -518,6 +518,9 @@ footer.footer-area .social a:hover > i{
         padding: 2%;
         margin: 0%;
     }
+    .brand-area {
+        justify-content: center;
+    }
 
     .site-main .site-banner .site-title h1{
         font-family: 'Roboto', sans-serif !important;
