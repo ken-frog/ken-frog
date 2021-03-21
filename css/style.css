@@ -518,6 +518,10 @@ footer.footer-area .social a:hover > i{
         padding: 2%;
         margin: 0%;
     }
+    .navbar-brand img{
+        margin-left: 0 !important;
+        padding-left: 0 !important;
+    }
     .brand-area {
         justify-content: center;
     }
